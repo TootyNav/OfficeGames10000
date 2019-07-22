@@ -1,4 +1,4 @@
-﻿# OfficeRaffle
+﻿# Office games
 
 Visual Studio 2019 preview 4 x64
 Core 3
